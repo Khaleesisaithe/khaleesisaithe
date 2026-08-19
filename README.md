@@ -1,56 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=KHALEESISAITHE&fontSize=48&fontColor=00FFCA&fontAlignY=38&animation=fadeIn&desc=Player%201%20%7C%20Data%20Science%20Quest&descAlignY=58&descSize=18&descColor=FF00E4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=3" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=INSERT+COIN+TO+CONTINUE...;LOADING+DATA+SCIENCE.exe;PYTHON+%2B+ML+%2B+STREAMLIT;PRESS+START+%F0%9F%95%B9%EF%B8%8F" alt="Typing SVG" />
+```
+$ whoami
+```
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=khaleesisaithe;data+scientist+%5Bin+training%5D;python+%7C+ml+%7C+dados" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/khaleesisaithe" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-INSERT%20COIN-FF00E4?style=for-the-badge&logo=linkedin&logoColor=00FFCA&labelColor=0f0c29" />
-</a>
-<a href="https://github.com/khaleesisaithe" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-PLAYER%20PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29" />
-</a>
+`OPEN TO WORK` `DATA SCIENCE` `PYTHON`
+
+<a href="https://github.com/khaleesisaithe"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+<a href="https://www.linkedin.com/in/khaleesisaithe"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 
 </div>
 
-<br/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket-fly-out.gif" width="100%" height="4"/>
+###
 
-## 🕹️ PLAYER STATUS
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<br>
+
+```bash
+> cat sobre.txt
 ```
 
-> LOADING PLAYER DATA...
-> NAME ......... Khaleesi
-> CLASS ........ Cientista de Dados (em treinamento)
-> MISSION ...... Conseguir vaga na área de Dados
-> STACK ........ Python | Pandas | Streamlit | ML
-> STATUS ....... ████████████░░░░░░░░  62% XP até o próximo nível
+## quem está por trás do código.
 
+Sou a **Khaleesi**, estudante e futura profissional de **Ciência de Dados**,
+em busca da minha primeira vaga na área.
+
+Gosto de transformar dado bruto em resposta útil — Python como ferramenta,
+curiosidade como motor. Construí o **PDFToolkit** para automatizar a
+consolidação de relatórios em PDF, e sigo evoluindo minha stack de dados
+e machine learning.
+
+<br>
+
+<table>
+<tr>
+<td align="center"><code>1+</code><br><sub>ANOS ESTUDANDO</sub></td>
+<td align="center"><code>1</code><br><sub>PROJETOS REAIS</sub></td>
+<td align="center"><code>4+</code><br><sub>TECNOLOGIAS</sub></td>
+<td align="center"><code>∞</code><br><sub>XÍCARAS DE CAFÉ</sub></td>
+</tr>
+</table>
+
+<br>
+
+```bash
+> ls projetos/
 ```
 
-- 🎯 Farmando XP em **Ciência de Dados**, buscando minha próxima quest (vaga na área)
-- 🐍 Uso **Python** pra automatizar tudo que dá — dados, relatórios, arquivos
-- 🧠 Interesse em Machine Learning, análise de dados e visualização
-- 🌱 New Game+: sempre aprendendo skills novas
-- 💬 Chama no chat — bora falar de dados e projetos!
+## onde dado bruto vira resposta.
 
-<br/>
+<table>
+<tr>
+<td width="100%">
 
-## 🎮 TECH INVENTORY
+### `PDFToolkit` <sub>`TOOL`</sub>
+
+`Python` `Streamlit` `PyPDF2` `ReportLab`
+
+Ferramenta para leitura, geração e consolidação de relatórios em PDF a
+partir de CSV, Excel e PDF — com interface web própria.
+
+[Ver no GitHub ↗](https://github.com/khaleesisaithe/PDF-Toolkit-py) · [Testar app ↗](https://criadordepdf.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### `[próximo projeto]` <sub>`TAG`</sub>
+
+`stack` `aqui`
+
+Descrição breve do que o projeto resolve.
+
+[Ver no GitHub ↗](#)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### `[próximo projeto]` <sub>`TAG`</sub>
+
+`stack` `aqui`
+
+Descrição breve do que o projeto resolve.
+
+[Ver no GitHub ↗](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```bash
+> cat stack.json
+```
+
+## as tecnologias por trás dos meus projetos.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,streamlit,git,github,vscode,postgres&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,streamlit,git,github,postgres,vscode&theme=dark" />
 </div>
 
-<br/>
+<br>
 
-## 👾 CONTRIBUTION ARCADE — PAC-MAN EDITION
+`▸` Python `██████████████████░░` 85%
+`▸` Pandas `████████████████░░░░` 80%
+`▸` SQL `██████████████░░░░░░` 70%
+`▸` Machine Learning `████████████░░░░░░░░` 60%
+`▸` Streamlit `██████████████████░░` 85%
+`▸` Git / GitHub `████████████████░░░░` 80%
+
+<br>
+
+```bash
+> git log --graph --oneline
+```
+
+## contribuições — modo arcade.
 
 <div align="center">
 
@@ -60,86 +170,45 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/khaleesisaithe/khaleesisaithe/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>🟡 Pac-Man comendo meus commits — animação gerada automaticamente todo dia (veja o passo-a-passo abaixo pra ativar) 👻👻👻👻</sub>
+<sub>gerado automaticamente via GitHub Actions a partir dos meus commits reais</sub>
 
 </div>
 
-<br/>
+<br>
 
-## 📊 SCOREBOARD
+```bash
+> cat trajetoria.log
+```
+
+## minha jornada até aqui.
+
+```
+[2026 — agora]     estudando ciência de dados, buscando primeira vaga na área
+[2025 — 2026]      construção do PDFToolkit — Python, Streamlit, manipulação de PDF
+[2025]             início dos estudos em análise e ciência de dados
+```
+
+<br>
+
+```bash
+> cat contato.sh
+```
+
+## vamos trabalhar juntos?
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaleesisaithe&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=39FF14&icon_color=FF00E4&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleesisaithe&theme=synthwave&hide_border=true&background=0f0c29&ring=FF00E4&fire=39FF14&currStreakLabel=39FF14" height="165"/>
+<a href="https://github.com/khaleesisaithe"><img src="https://img.shields.io/badge/GITHUB-khaleesisaithe-00FF41?style=flat-square&logo=github&logoColor=000000&labelColor=00FF41" /></a>
+<a href="https://www.linkedin.com/in/khaleesisaithe"><img src="https://img.shields.io/badge/LINKEDIN-khaleesisaithe-00FF41?style=flat-square&logo=linkedin&logoColor=000000&labelColor=00FF41" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleesisaithe&layout=compact&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=39FF14&text_color=ffffff" height="165"/>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=khaleesisaithe&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://komarev.com/ghpvc/?username=khaleesisaithe&style=flat-square&color=00FF41&label=visitas" />
 
 </div>
 
-<br/>
-
-## 🐍 EXTRA LIFE — SNAKE EATING MY COMMITS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=3" width="100%"/>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaleesisaithe/khaleesisaithe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaleesisaithe/khaleesisaithe/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/khaleesisaithe/khaleesisaithe/output/github-contribution-grid-snake.svg">
-</picture>
-
+<code>khaleesisaithe % dev log — construindo com dados.</code>
 </div>
-
-<br/>
-
-## 🏆 FEATURED QUESTS (PROJETOS)
-
-<div align="center">
-
-<a href="https://github.com/khaleesisaithe/PDF-Toolkit-py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaleesisaithe&repo=PDF-Toolkit-py&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=39FF14&icon_color=FF00E4&text_color=ffffff" />
-</a>
-
-</div>
-
-### 📄 PDFToolkit — `github.com/khaleesisaithe/PDF-Toolkit-py`
-> Ferramenta em Python para leitura, geração e consolidação de relatórios em PDF a partir de CSV, Excel e PDF.
-> Interface em **Streamlit**, leitura com **PyPDF2**, geração com **ReportLab**.
-
-🎮 Play now: [criadordepdf.streamlit.app](https://criadordepdf.streamlit.app/)
-
-`Python` `Streamlit` `PyPDF2` `ReportLab`
-
----
-
-### ✨ [Próxima quest]
-> Descrição do projeto e stack usada.
-
-🔗 [repositório](#)
-
----
-
-### ✨ [Próxima quest]
-> Descrição do projeto e stack usada.
-
-🔗 [repositório](#)
-
-<br/>
-
-## 👀 VISITOR COUNTER
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=khaleesisaithe&style=for-the-badge&color=39FF14&label=PLAYERS+WHO+VISITED" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-<div align="center">
-<sub>💜 GAME OVER? Não, obrigada pela visita! Bora conectar 🕹️</sub>
-</div>
-
