@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=3" width="100%"/>
 
 ```
-$ whoami
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=khaleesisaithe;data+scientist+%5Bin+training%5D;python+%7C+ml+%7C+dados" alt="Typing SVG" />
