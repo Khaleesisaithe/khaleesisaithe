@@ -2,25 +2,28 @@
   <img src="./assets/khaleesi-profile-banner-palette.png" width="100%" alt="Gatinho pixel art trabalhando em um ambiente de dados, código e tecnologia" />
 </p>
 
-<p align="center">
-  <img src="./assets/khaleesi-badge-trans.png" width="330" alt="Crachá pixel art de Khaleesi Saithen com pingente de bandeira trans" />
+<img align="left" width="300" src="./assets/khaleesi-badge-trans.png" alt="Crachá pixel art de Khaleesi Saithen com pingente de bandeira trans" />
+
+<h1>Khaleesi Saithen</h1>
+
+<p><strong><code>ciência de dados</code> · <code>python</code> · <code>IA</code> · <code>aprendendo em público</code></strong></p>
+
+<p>Eu transformo curiosidade em projetos, perguntas em pesquisa e problemas reais em soluções que podem ser usadas.</p>
+
+<p>
+  <a href="https://github.com/khaleesisaithe"><img src="https://img.shields.io/badge/GITHUB-khaleesisaithe-7226FF?style=for-the-badge&logo=github&logoColor=FFE5F1" alt="GitHub de Khaleesi Saithen" /></a><br />
+  <a href="https://www.linkedin.com/in/khaleesisaithe"><img src="https://img.shields.io/badge/LINKEDIN-conectar-F042FF?style=for-the-badge&logo=linkedin&logoColor=FFE5F1" alt="LinkedIn de Khaleesi Saithen" /></a><br />
+  <a href="https://github.com/Khaleesisaithe/meuPorti"><img src="https://img.shields.io/badge/PORTFÓLIO-ver%20projeto-160078?style=for-the-badge&logo=github&logoColor=87F5F5" alt="Portfólio de Khaleesi Saithen" /></a>
 </p>
 
-<div align="center">
-  <h1>Khaleesi Saithen</h1>
-  <p><strong><code>ciência de dados</code> · <code>python</code> · <code>IA</code> · <code>construindo com propósito</code></strong></p>
-  <p>Uma pessoa curiosa, inquieta e apaixonada por transformar problemas reais em projetos que funcionam.</p>
-  <p>
-    <a href="https://github.com/khaleesisaithe"><img src="https://img.shields.io/badge/GitHub-khaleesisaithe-7226FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub de Khaleesi Saithen" /></a>
-    <a href="https://www.linkedin.com/in/khaleesisaithe"><img src="https://img.shields.io/badge/LinkedIn-conectar-7226FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn de Khaleesi Saithen" /></a>
-    <a href="https://github.com/Khaleesisaithe/meuPorti"><img src="https://img.shields.io/badge/Portfólio-ver%20projeto-F042FF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Portfólio de Khaleesi Saithen" /></a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-7226FF?style=flat-square&logoColor=0D1117" alt="Open to work" />
-    <img src="https://img.shields.io/badge/LEARNING%20IN%20PUBLIC-F042FF?style=flat-square&logoColor=FFFFFF" alt="Learning in public" />
-    <img src="https://img.shields.io/github/last-commit/khaleesisaithe/khaleesisaithe?style=flat-square&label=ultimo%20commit&color=7226FF" alt="Último commit do perfil" />
-  </p>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-7226FF?style=flat-square&logoColor=FFE5F1" alt="Open to work" />
+  <img src="https://img.shields.io/badge/LEARNING%20IN%20PUBLIC-F042FF?style=flat-square&logoColor=FFE5F1" alt="Learning in public" />
+</p>
+
+<br clear="left" />
+
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
 
 ```bash
 > whoami
@@ -28,17 +31,17 @@
 
 ## 👩‍💻 sobre mim
 
-<img align="right" width="190" src="./assets/khaleesi-cat-work.png" alt="Gatinho pixel art supervisionando o trabalho" />
+<img align="right" width="175" src="./assets/khaleesi-cat-work.png" alt="Gatinho pixel art acompanhando o trabalho" />
 
 Sou **Khaleesi Saithen**, estudante e futura profissional de **Ciência de Dados**, construindo minha primeira oportunidade na área.
 
-Minha trajetória não começou diretamente na tecnologia. Passei por atendimento, operações e varejo — experiências que me ensinaram que, antes de criar uma solução, é preciso entender o problema de quem realmente vai utilizá-la.
+Minha trajetória passou por atendimento, operações e varejo. Essas experiências me ensinaram que, antes de criar uma solução, é preciso entender o problema de quem realmente vai utilizá-la.
 
-Hoje estudo **Python, análise e visualização de dados, desenvolvimento web, bancos de dados, Inteligência Artificial e automação**. Gosto de aprender fazendo e de transformar ideias em projetos reais, mesmo quando o caminho começa com uma pergunta, uma pesquisa e algumas tentativas que não funcionam de primeira.
-
-<br clear="right" />
+Hoje estudo **Python, análise e visualização de dados, desenvolvimento web, bancos de dados, Inteligência Artificial e automação**. Gosto de aprender fazendo e transformar perguntas em projetos reais, mesmo quando o caminho começa com pesquisa, tentativa e erro.
 
 > **Curiosidade como motor. Python como ferramenta. Problemas reais como ponto de partida.**
+
+<br clear="right" />
 
 ## 🚀 o que me move
 
@@ -46,24 +49,29 @@ Não consigo olhar para um problema e pensar apenas que alguém deveria resolvê
 
 Meu objetivo não é apenas acumular tecnologias. Quero entender como elas podem melhorar processos, automatizar tarefas, organizar dados e transformar informação em decisões mais úteis.
 
-Foi desse impulso que nasceram projetos como o **PixBee FechaCaixa**, criado a partir de uma necessidade operacional real, e o **PDFToolkit**, desenvolvido para automatizar a manipulação e a consolidação de relatórios em PDF.
+Foi desse impulso que nasceram o **PixBee FechaCaixa**, criado a partir de uma necessidade operacional real, e o **PDFToolkit**, desenvolvido para automatizar a manipulação e a consolidação de relatórios.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7226FF,50:F042FF,100:87F5F5&height=3" width="88%" alt="Divisor neon roxo, magenta e ciano" />
-</p>
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
 
-## 🧠 o que eu gosto de explorar
+## 🧠 coisas que eu gosto de explorar
 
-| Trilha | Interesses |
-| --- | --- |
-| **Dados** | Python, Pandas, NumPy, análise, visualização e estatística. |
-| **Inteligência** | Inteligência Artificial, machine learning e automação de processos. |
-| **Desenvolvimento** | Desenvolvimento web, APIs, bancos de dados e experiências digitais. |
-| **Infraestrutura** | Redes, segurança da informação e organização de sistemas. |
-| **Criatividade** | Design, interfaces, games, cultura digital e estética gótica. |
-| **Experimentação** | Tecnologias novas, ideias improváveis e projetos com personalidade. |
+**Dados** — Python, Pandas, NumPy, análise, visualização e estatística.<br />
+**Inteligência** — Inteligência Artificial, machine learning e automação de processos.<br />
+**Desenvolvimento** — desenvolvimento web, APIs, bancos de dados e experiências digitais.<br />
+**Infraestrutura** — redes, segurança da informação e organização de sistemas.<br />
+**Criatividade** — design, interfaces, games, cultura digital e estética gótica.<br />
+**Experimentação** — tecnologias novas, ideias improváveis e projetos com personalidade.
 
 > Aprender não precisa acontecer em uma linha reta. Às vezes o caminho passa por Python, depois por HTML, depois por uma ideia às duas da manhã e, misteriosamente, termina em um projeto funcionando.
+
+```python
+khaleesi = {
+    "foco": ["Ciência de Dados", "Python", "IA"],
+    "construindo": ["projetos próprios", "portfólio", "soluções úteis"],
+    "aprendendo": ["análise", "automação", "desenvolvimento"],
+    "próximo_passo": "transformar dados em decisões melhores",
+}
+```
 
 ```bash
 > ls projetos/
@@ -71,15 +79,17 @@ Foi desse impulso que nasceram projetos como o **PixBee FechaCaixa**, criado a p
 
 ## 🛠️ projetos em destaque
 
-### `PDFToolkit` <sub>TOOL</sub>
+### `PDFToolkit` · <sub>TOOL</sub>
 
 `Python` `Streamlit` `PyPDF2` `ReportLab`
 
 Ferramenta para ler, gerar e consolidar relatórios em PDF a partir de arquivos CSV, Excel e PDF, com uma interface web própria.
 
-[Ver no GitHub ↗](https://github.com/khaleesisaithe/PDF-Toolkit-py) · [Testar aplicação ↗](https://criadordepdf.streamlit.app/)
+[Ver no GitHub ↗](https://github.com/Khaleesisaithe/PDF-Toolkit-py) · [Testar aplicação ↗](https://criadordepdf.streamlit.app/)
 
-### `PixBee FechaCaixa` <sub>PRODUCT</sub>
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
+
+### `PixBee FechaCaixa` · <sub>PRODUCT</sub>
 
 `TypeScript` `React` `Tailwind CSS` `Vite` `Vercel`
 
@@ -87,19 +97,23 @@ Aplicação web criada para organizar a abertura, a contagem, a conferência e o
 
 [Ver no GitHub ↗](https://github.com/Khaleesisaithe/Pixbee-FechaCaixa) · [Abrir demo online ↗](https://pixbee-red.vercel.app/)
 
-### `Python-estudos` <sub>LAB</sub>
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
+
+### `Python-estudos` · <sub>LAB</sub>
 
 `Python` `lógica` `exercícios` `aprendizado contínuo`
 
-Um registro da minha evolução em Python, com exercícios, desafios e experimentos que fazem parte da construção da minha base em tecnologia.
+Registro da minha evolução em Python, com exercícios, desafios e experimentos que fazem parte da construção da minha base em tecnologia.
 
 [Explorar repositório ↗](https://github.com/Khaleesisaithe/Python-estudos)
 
-### `Meu.site-primeiro-contato-HTML-` <sub>ORIGIN</sub>
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
+
+### `Meu.site-primeiro-contato-HTML-` · <sub>ORIGIN</sub>
 
 `HTML` `CSS` `desenvolvimento web`
 
-Um dos registros do início da minha jornada na construção de páginas e interfaces, transformando curiosidade em prática a cada linha de código.
+Registro do início da minha jornada na construção de páginas e interfaces, transformando curiosidade em prática a cada linha de código.
 
 [Explorar repositório ↗](https://github.com/Khaleesisaithe/Meu.site-primeiro-contato-HTML-)
 
@@ -107,46 +121,34 @@ Um dos registros do início da minha jornada na construção de páginas e inter
 > cat stack.json
 ```
 
-## 💻 tecnologias que estou construindo
+## 💻 o que estou construindo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,streamlit&theme=dark" alt="Tecnologias de dados utilizadas por Khaleesi Saithen" />
-</p>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,streamlit&theme=dark" alt="Tecnologias de dados utilizadas por Khaleesi Saithen" /><br />
   <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,vite,nodejs,html,css,git,github,postgres,vscode&theme=dark" alt="Tecnologias web e ferramentas utilizadas por Khaleesi Saithen" />
 </p>
 
-| Foco | Em desenvolvimento |
-| --- | --- |
-| **Ciência de Dados** | Python, Pandas, NumPy, visualização e fundamentos de análise. |
-| **Machine Learning** | Fundamentos de modelos, experimentação e interpretação de resultados. |
-| **Desenvolvimento** | HTML, CSS, TypeScript, React, Streamlit e aplicações web. |
-| **Dados e sistemas** | SQL, PostgreSQL, organização de dados e integração de soluções. |
-| **Ferramentas** | Git, GitHub, VS Code, documentação e publicação de projetos. |
+**Ciência de Dados** — Python, Pandas, NumPy, visualização e fundamentos de análise.<br />
+**Machine Learning** — fundamentos de modelos, experimentação e interpretação de resultados.<br />
+**Desenvolvimento** — HTML, CSS, TypeScript, React, Streamlit e aplicações web.<br />
+**Dados e sistemas** — SQL, PostgreSQL, organização de dados e integração de soluções.<br />
+**Ferramentas** — Git, GitHub, VS Code, documentação e publicação de projetos.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-em%20foco-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python em foco" />
-  <img src="https://img.shields.io/badge/Dados-em%20construção-150458?style=flat-square&logo=pandas&logoColor=white" alt="Dados em construção" />
-  <img src="https://img.shields.io/badge/IA-explorando-F042FF?style=flat-square&logoColor=white" alt="Inteligência Artificial em exploração" />
-  <img src="https://img.shields.io/badge/Web-praticando-06B6D4?style=flat-square&logo=react&logoColor=white" alt="Desenvolvimento web em prática" />
-</p>
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
 
 ```bash
 > git log --graph --oneline
 ```
 
-## 📊 contribuições — modo arcade
+## 📊 GitHub em resumo
 
-A atividade abaixo usa um gráfico de contribuições simples e leve, sem os cards externos que estavam quebrados no preview. Assim, a seção fica mais limpa e não depende de serviços de estatísticas que podem falhar ao carregar.
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/7226FF/khaleesisaithe" alt="Gráfico de contribuições de Khaleesi Saithen no GitHub" width="100%" />
-  <br />
+<p>
   <img src="https://img.shields.io/github/commit-activity/y/khaleesisaithe/khaleesisaithe?style=flat-square&label=commits%20no%20ano&color=7226FF" alt="Commits no último ano" />
   <img src="https://img.shields.io/github/stars/khaleesisaithe?style=flat-square&label=estrelas%20recebidas&color=F042FF" alt="Estrelas recebidas no GitHub" />
   <img src="https://img.shields.io/github/followers/khaleesisaithe?style=flat-square&label=seguidores&color=7226FF" alt="Seguidores no GitHub" />
-</div>
+</p>
+
+O gráfico de contribuições continua visível diretamente no perfil do GitHub. Aqui, os indicadores ficam leves e estáveis, sem depender de cards externos que podem deixar imagens quebradas.
 
 ```bash
 > cat trajetoria.log
@@ -154,20 +156,17 @@ A atividade abaixo usa um gráfico de contribuições simples e leve, sem os car
 
 ## 🧩 minha jornada até aqui
 
-Minha trajetória não foi construída em linha reta. Precisei aprender enquanto trabalhava, lidar com mudanças, recomeçar algumas vezes e descobrir meu espaço em uma área competitiva.
+Minha trajetória não foi construída em uma linha reta. Precisei aprender enquanto trabalhava, lidar com mudanças, recomeçar algumas vezes e descobrir meu espaço em uma área competitiva.
 
-Também precisei aprender que não saber alguma coisa não significa ser incapaz. Significa apenas que existe mais uma coisa para estudar. Cada projeto terminado representa mais do que código funcionando: representa uma prova de que consegui aprender aquilo que antes não sabia fazer.
+Não saber alguma coisa não significa ser incapaz. Significa apenas que existe mais uma coisa para estudar. Cada projeto terminado representa uma prova de que consegui aprender aquilo que antes não sabia fazer.
 
 ```text
 [agora]          estudando Ciência de Dados, Python, análise, IA e desenvolvimento
 [em paralelo]    construindo projetos próprios, portfólio e soluções digitais
-[próximo passo]  aprofundando dados, machine learning e visão estratégica
 [processo]       aprendendo → construindo → errando → corrigindo → evoluindo
 ```
 
-<p align="center">
-  <img src="./assets/khaleesi-cat-adventure.png" width="235" alt="Gatinho pixel art em uma cena de aventura" />
-</p>
+<img align="right" width="185" src="./assets/khaleesi-cat-adventure.png" alt="Gatinho pixel art em uma cena de aventura" />
 
 ## 🎯 onde quero chegar
 
@@ -175,15 +174,15 @@ Quero construir uma carreira sólida em **Ciência de Dados, tecnologia e Inteli
 
 No longo prazo, quero criar produtos, sistemas e soluções próprias; aprofundar meus conhecimentos em dados, programação e IA; desenvolver uma visão cada vez mais estratégica; e construir uma carreira que una tecnologia, criatividade, independência e propósito.
 
+<br clear="right" />
+
 ## 🌱 atualmente
 
-| Status | Em movimento |
-| --- | --- |
-| **Estudando** | Ciência de Dados, Python, análise de dados, IA e desenvolvimento. |
-| **Construindo** | Projetos próprios, portfólio e soluções digitais. |
-| **Explorando** | Automação, inteligência artificial e novas formas de transformar problemas reais em tecnologia. |
-| **Buscando** | Minha primeira oportunidade profissional na área de dados e tecnologia. |
-| **Mantendo** | Curiosidade, persistência e vontade de aprender fazendo. |
+**Estudando** — Ciência de Dados, Python, análise de dados, IA e desenvolvimento.<br />
+**Construindo** — projetos próprios, portfólio e soluções digitais.<br />
+**Explorando** — automação, inteligência artificial e novas formas de transformar problemas reais em tecnologia.<br />
+**Buscando** — minha primeira oportunidade profissional na área de dados e tecnologia.<br />
+**Mantendo** — curiosidade, persistência e vontade de aprender fazendo.
 
 ```bash
 > ./contato.sh
@@ -193,17 +192,13 @@ No longo prazo, quero criar produtos, sistemas e soluções próprias; aprofunda
 
 Se você gosta de dados, tecnologia, automação, produtos úteis ou projetos que ainda estão crescendo, será um prazer conversar.
 
-<div align="center">
-  <a href="https://github.com/khaleesisaithe"><img src="https://img.shields.io/badge/GITHUB-khaleesisaithe-7226FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub de Khaleesi Saithen" /></a>
-  <a href="https://www.linkedin.com/in/khaleesisaithe"><img src="https://img.shields.io/badge/LINKEDIN-khaleesisaithe-7226FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn de Khaleesi Saithen" /></a>
-  <a href="https://github.com/Khaleesisaithe/meuPorti"><img src="https://img.shields.io/badge/PORTFÓLIO-meuPorti-F042FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfólio de Khaleesi Saithen" /></a>
-  <br /><br />
-  <img src="https://img.shields.io/github/last-commit/khaleesisaithe/khaleesisaithe?style=flat-square&label=dev%20log&color=7226FF" alt="Dev log de Khaleesi Saithen" />
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7226FF,50:F042FF,100:87F5F5&height=3" width="88%" alt="Divisor neon" />
+  <a href="https://github.com/khaleesisaithe"><img src="https://img.shields.io/badge/GITHUB-khaleesisaithe-7226FF?style=for-the-badge&logo=github&logoColor=FFE5F1" alt="GitHub de Khaleesi Saithen" /></a>
+  <a href="https://www.linkedin.com/in/khaleesisaithe"><img src="https://img.shields.io/badge/LINKEDIN-khaleesisaithe-F042FF?style=for-the-badge&logo=linkedin&logoColor=FFE5F1" alt="LinkedIn de Khaleesi Saithen" /></a>
+  <a href="https://github.com/Khaleesisaithe/meuPorti"><img src="https://img.shields.io/badge/PORTFÓLIO-meuPorti-160078?style=for-the-badge&logo=github&logoColor=87F5F5" alt="Portfólio de Khaleesi Saithen" /></a>
 </p>
+
+<img src="./assets/khaleesi-divider.svg" width="100%" alt="Divisor roxo, magenta e ciano" />
 
 <p align="center">
   <code>khaleesisaithe % dev log — construindo com dados.</code>
